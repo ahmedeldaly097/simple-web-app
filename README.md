@@ -1,8 +1,7 @@
 # Simple Web App
-## first of all, I need to thank me for writing this amazing web application.
+## A simple web to test all features of GitHub
 
 - ### This repo consists of two files
     - index.html
     - style.css
 ---
-
